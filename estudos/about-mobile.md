@@ -20,10 +20,6 @@
 - Swift
 - Objective-C (antiga)
 
-### Tecnologias Android
-
-- C#
-
 ### Xamarin
 
 - Utiliza C# para desenvolver aplicações nativas para Android e IoS.
