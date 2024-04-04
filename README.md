@@ -1,6 +1,6 @@
 # Ionic
 
 - Úteis
-    - [CLI](estudos/cli.md)
+    - [CLI](estudos/uteis/cli.md)
 - Curso 1
     - [Introdução](estudos/curso_1/introducao.md)
