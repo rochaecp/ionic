@@ -1,4 +1,6 @@
-# Ionic - Definição
+# Ionic 
+
+## Ionic - Definição
 
 - Plataforma para auxiliar na criação de aplicativos móveis com tecnologias Web
 - A base do código é em HTML, CSS e JS
@@ -11,22 +13,22 @@
 - Tem em seu núcleo um conjunto de Web Components
 - É o nome de uma empresa
 
-# Capacitor - Definição
+## Capacitor - Definição
 
 - Ferramenta capaz de converter um aplicativo web existente em um aplicativo móvel nativo
 - Fornece um aplicativo móvel nativo que executa o aplicativo web dentro dele
 
-# Cordova - Definição
+## Cordova - Definição
 
 - Ferramenta capaz de converter um aplicativo web existente em um aplicativo móvel nativo
 
-# Ferramentas
+## Ferramentas
 
 - Ionic CLI + Angular CLI
 - Stencil (para criar web components) 
 - Existem ferramentas premium 
 
-# Ecossistema Ionic
+## Ecossistema Ionic
 
 - 1 - Construção de um Web app comum (com ou sem um framework do tipo Angular, Vue ou React)
 - 2 - Conversão do Web app em um aplicativo mobile nativo ou em um progressive web app

@@ -4,6 +4,6 @@
 
 - [CLI](estudos/uteis/cli.md)
 
-#### Curso 1
+#### Curso 01
 
-- [Introdução](estudos/curso_1/introducao.md)
+- [Introdução](estudos/curso_01/introducao.md)
